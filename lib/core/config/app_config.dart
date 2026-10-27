@@ -1,7 +1,7 @@
 /// Build-time configuration, supplied with `--dart-define`. Only PUBLIC values belong here
 /// (the Supabase anon / publishable key). Never put a service-role key in a client app.
 abstract final class AppConfig {
-  static const apiBaseUrl = String.fromEnvironment('API_BASE_URL', defaultValue: 'http://localhost:8000');
+  static const apiBaseUrl = String.fromEnvironment('API_BASE_URL', defaultValue: 'https://finance-backend-miln.onrender.com');
   static const supabaseUrl = String.fromEnvironment('SUPABASE_URL');
   static const supabaseAnonKey = String.fromEnvironment('SUPABASE_ANON_KEY');
 
