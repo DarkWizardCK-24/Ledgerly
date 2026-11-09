@@ -11,6 +11,7 @@ Ledgerly is a modern, multi-ledger take on the classic ledger book. Each ledger 
 ![Flutter](https://img.shields.io/badge/Flutter-3.47-02569B?logo=flutter&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Android%20%C2%B7%20iOS%20%C2%B7%20Windows%20%C2%B7%20Web-E8590C)
 ![Riverpod](https://img.shields.io/badge/State-Riverpod-FF9A2F)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
 </div>
 
